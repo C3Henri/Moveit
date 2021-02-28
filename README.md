@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-   <img alt="layout" src="public/tela1.png" width="100%" />
+   <img alt="layout" src="public/Tela1.PNG" width="100%" />
 </p>
 
 ## 🚀 Tecnologias
