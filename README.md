@@ -15,7 +15,6 @@
             alt="License">
     </p>
 
-    <br>
 
     <p align="center">
         <img alt="move.it" src="public/tela1.png" width="100%" />
